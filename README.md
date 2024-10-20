@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# 🍲 Dine Smart
 
-A simple Streamlit app template for you to modify!
+Get order faster and smarter
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
@@ -9,7 +9,7 @@ A simple Streamlit app template for you to modify!
 1. Install the requirements
 
    ```
-   $ pip install -r requirements.txt
+   $ pip3 install -r requirements.txt
    ```
 
 2. Run the app
